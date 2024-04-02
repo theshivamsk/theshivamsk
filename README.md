@@ -10,19 +10,19 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👯 I’m looking to collaborate on **sky coding**
+- 👯 I’m looking to collaborate on **Tech Overflow**
 
-- 🤝 I’m looking for help with **sky coding**
+- 🤝 I’m looking for help with **Tech Overflow**
 
-- 👨‍💻 All of my projects are available at [http://www.youtube.com/@askycoding](http://www.youtube.com/@askycoding)
+- 👨‍💻 All of my projects are available at [http://www.youtube.com/@tech.overflows](http://www.youtube.com/@askycoding)
 
-- 📝 I regularly write articles on [http://www.youtube.com/@askycoding](http://www.youtube.com/@askycoding)
+- 📝 I regularly write articles on [http://www.youtube.com/@tech.overflows](http://www.youtube.com/@askycoding)
 
 - 💬 Ask me about **angular & snowflake**
 
 - 📫 How to reach me **pskycoding@gmail.com**
 
-- 📄 Know about my experiences [http://www.youtube.com/@askycoding](http://www.youtube.com/@askycoding)
+- 📄 Know about my experiences [http://www.youtube.com/@tech.overflows](http://www.youtube.com/@askycoding)
 
 - ⚡ Fun fact **I use my free time for exploring techy things**
 
